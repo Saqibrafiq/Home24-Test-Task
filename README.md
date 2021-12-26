@@ -1,3 +1,5 @@
+![Demo](https://user-images.githubusercontent.com/14060649/147417889-e1859936-9f7a-4714-82ab-1fd1ddf9f973.gif)
+
 ## home24 Frontend Tech Task
 
 Owner|Type
